@@ -2,6 +2,12 @@
 /*
  * Normalization
  */
+@import url("https://fonts.googleapis.com/earlyaccess/nicomoji.css");
+
+* { 
+  font-family: "Nico Moji"; 
+}
+
 abbr[title] {
   text-decoration: underline;
   text-decoration: underline dotted; }

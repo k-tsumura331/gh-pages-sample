@@ -3,9 +3,17 @@
  * Normalization
  */
 @import url("https://fonts.googleapis.com/earlyaccess/nicomoji.css");
+@import url("https://fonts.googleapis.com/earlyaccess/nikukyu.css");
+@import url("https://fonts.googleapis.com/earlyaccess/roundedmplus1c.css");
+@import url("https://fonts.googleapis.com/earlyaccess/hannari.css");
+@import url("https://fonts.googleapis.com/earlyaccess/sawarabimincho.css");
 
 * { 
-  font-family: "Nico Moji"; 
+  /* font-family: "Nico Moji";  */
+  /* font-family: "Nico Moji";  */
+  /* font-family: "Rounded Mplus 1c";  */
+  /* font-family: "Hannari";  */
+  font-family: "Sawarabi"; 
 }
 
 abbr[title] {
